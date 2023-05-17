@@ -72,6 +72,6 @@ id, store id, sellername, password
 4. [Функции](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/Functions.sql)
 5. [Представления](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/Views.sql)
 6. [Триггеры](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/Triggers.sql)
-7. [Генерация данных, вставка данных в БД, извлечение данных и анализ с использованием Python](https://github.com/Tanitum/Database_project_2023/blob/main/analysis/analysis.py)
+7. Генерация данных, вставка данных в БД, извлечение данных и анализ с использованием Python: [код](https://github.com/Tanitum/Database_project_2023/blob/main/analysis/analysis.py), [результат](https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/analysis/analysis.ipynb)
 
 
