@@ -60,18 +60,18 @@ id, store id, sellername, password
 поля / атрибуты: product_log_id, operation, product_id, product_nm, product_price, valid_from_dttm, valid_to_dttm
 
 ## Модели
-1. Файл с тремя моделями: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/docs/models.pdf
-2. Концептуальная модель: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/docs/conceptual-model.png
-4. Логическая модель: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/docs/logical-model.png
-4. Физическая модель: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/docs/physical-model.png
+1. [Файл с тремя моделями](https://github.com/Tanitum/Database_project_2023/blob/main/docs/models.pdf)
+2. [Концептуальная модель](https://github.com/Tanitum/Database_project_2023/blob/main/docs/conceptual-model.png)
+4. [Логическая модель](https://github.com/Tanitum/Database_project_2023/blob/main/docs/logical-model.png)
+4. [Физическая модель](https://github.com/Tanitum/Database_project_2023/blob/main/docs/physical-model.png)
 
 ## Файлы проекта
-1. DDL скрипты: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/scripts/CreateDB.sql
-2. Заполнение БД данными: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/scripts/InsertsDB.sql
-3. CRUD-запросы: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/scripts/CRUD_requests.sql
-4. Функции: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/scripts/Functions.sql
-5. Представления: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/scripts/Views.sql
-6. Триггеры: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/scripts/Triggers.sql
-7. Генерация данных, вставка данных в БД, извлечение данных и анализ с использованием Python: https://gitlab.atp-fivt.org/db2023/komlevro-project/-/blob/main/analysis/analysis.py
+1. [DDL скрипты](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/CreateDB.sql)
+2. [Заполнение БД данными](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/InsertsDB.sql)
+3. [CRUD-запросы](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/CRUD_requests.sql)
+4. [Функции](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/Functions.sql)
+5. [Представления](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/Views.sql)
+6. [Триггеры](https://github.com/Tanitum/Database_project_2023/blob/main/scripts/Triggers.sql)
+7. [Генерация данных, вставка данных в БД, извлечение данных и анализ с использованием Python](https://github.com/Tanitum/Database_project_2023/blob/main/analysis/analysis.py)
 
 
