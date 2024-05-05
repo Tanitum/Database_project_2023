@@ -59,7 +59,7 @@ id, store id, sellername, password
 10) product_logs (заполняется триггером create_product_logs_trigger)
 поля / атрибуты: product_log_id, operation, product_id, product_nm, product_price, valid_from_dttm, valid_to_dttm
 
-## Модели
+## Модели (ER-model)
 1. [Файл с тремя моделями](https://github.com/Tanitum/Database_project_2023/blob/main/docs/models.pdf)
 2. [Концептуальная модель](https://github.com/Tanitum/Database_project_2023/blob/main/docs/conceptual-model.png)
 4. [Логическая модель](https://github.com/Tanitum/Database_project_2023/blob/main/docs/logical-model.png)
